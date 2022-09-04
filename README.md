@@ -1,10 +1,10 @@
-# Databases for DSBA ib 2022/23 году #
+# Databases for DSBA in 2022/23  #
 
 ### Lectures and Seminars ###
 
 | № | Date | Lecture	                              | Seminar	                                |
 |---|------|-------------------------------------|------------------------------------------|
-| 1 | 05.09| Intro into data management	| Requirements engineering for data-based project| 
+| 1 | 05.09| [Intro into data management](lectures/DB-2022-lec01.pdf)	| Requirements engineering for data-based project| 
 | 2 | 12.09| Data modeling | Data models | 
 | 3 | 19.09| Database design: E/R diagrams | Conceptual data model desing | 
 | 4 | 26.09| Relational data model | Conceptual to logical/relational data model translation | 
@@ -30,3 +30,7 @@
 * Essay
 * Quizzes
 * Midterm test
+
+### Links ###
+[Telegram chat](https://t.me/+2CCPjiPs_JA0NDE6)
+Assignments in [Canvas](https://canvas.instructure.com/enroll/3WN9W9)
