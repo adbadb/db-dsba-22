@@ -5,8 +5,8 @@
 | № | Date | Lecture	                              | Seminar	                                |
 |---|------|-------------------------------------|------------------------------------------|
 | 1 | 05.09| [Intro into data management](lectures/DB-2022-lec01.pdf)	| Requirements engineering for data-based project| 
-| 2 | 12.09| Data modeling | Data models | 
-| 3 | 19.09| Database design: E/R diagrams | Conceptual data model desing | 
+| 2 | 12.09| [Data modeling](lectures/DB-2022-lec02.pdf) | Data models | 
+| 3 | 19.09| Database design | Conceptual data model desing | 
 | 4 | 26.09| Relational data model | Conceptual to logical/relational data model translation | 
 | 5 | 03.10| Relational databases design | Normal forms | 
 | 6 | 10.10| Relational query languages | Relational algebra and calculus | 
